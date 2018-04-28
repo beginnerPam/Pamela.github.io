@@ -1,0 +1,136 @@
+nav{
+    height: 53px;
+
+}
+
+.navbar-header{
+    padding-left: 150px;
+    font-size: 38px;
+    margin-right: 80px;
+}
+
+.navbar li{
+    padding-right: 80px;
+    font-size: 22px;
+}
+.navbar-nav>li>a {
+  
+    font-size: 24px;
+    font-family: inherit;
+}
+
+
+
+.navbar {
+    min-height: 40px;
+}
+
+#Hello{
+    margin-bottom: 0px;
+    margin-top: 53px;
+}
+ul{
+    list-style: none;
+    margin-top: 20px;
+    padding-left: 120px;
+}
+#Hello li{
+    background-color: white;
+    font-size: 16px;
+    line-height: 44px;
+    width: 200px;
+    text-align: center;
+   margin-top: 5px;
+   font-family: 微软雅黑;
+   font-weight: bold;
+   color: #404040;
+}
+h1{
+    text-align: center;
+}
+ul li a:link{
+    text-decoration: none;
+}
+#photo{
+    margin-left: 20%;
+}
+#about{
+    background-color:#e1e1e1;
+    margin-bottom: 0px;
+}
+#about p{
+    font-size: 13px;
+    text-align: left;
+    
+}
+.introduce{
+    text-align: center;
+    color: #404040;
+    margin: 20px 80px;
+}
+#profile{
+    background-color: #d4d4d4;
+    margin-bottom: 0px;
+}
+.works{
+    text-align: center;
+    color: #404040;
+    margin: 20px 80px;
+}
+.col-md-4 a:link{
+    text-decoration: none;
+}
+#contact{
+    background-color: #c8c8c8;
+    margin-bottom: 0px;
+}
+.call{
+    text-align: center;
+    color: #404040;
+    margin: 20px 80px;
+}
+.input-group .form-control{
+    width: 90%;
+    height: 40px;
+}
+.message textarea{
+    width: 100%;
+    margin-top: 15px;
+}
+.fa-weixin{
+    color: #62b900;
+}
+.social span{
+    float: left;
+    margin:20px 20px;
+}
+.fa-weibo{
+    color:#e6162d;
+}
+.fa-free-code-camp{
+    color: #ff9900;
+}
+.social p{
+    font-family: 楷书;
+}
+#weixin{
+    width: 120px;
+    display:none;
+}
+#weibo{
+    width: 120px;
+    display:none;
+}
+#fcc{
+    width: 120px;
+    display:none;
+}
+#foot{
+    background-color: #bbbbbb;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 0px;
+}
+#foot p{
+    font-size: 14px;
+}
